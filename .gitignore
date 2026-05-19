@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+dados/
+.ipynb_checkpoints/
+*.mat
+*.dat
+*.csv
